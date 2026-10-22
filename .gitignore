@@ -1,0 +1,12 @@
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+.vs/
+
+# Large editable skybox source file
+Assets/Wispy Sky/Extras/SphericalRenderPSD.psd
